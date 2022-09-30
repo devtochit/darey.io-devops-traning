@@ -18,7 +18,7 @@ ___
 ![sudo apt install nginx](./Project_2_Images/sudo_apt_install_nginx1.PNG)
 ![sudo apt install nginx](./Project_2_Images/sudo_apt_install_nginx1a.PNG)
 #####  The below image verifies that nginx is running as a Service on Ubuntu using command *`sudo systemctl status nginx`*
-![sudo systemctl status](./Project_2_Images/sudo_systemctl_status.PNG)
+
 >### Testing the Newly Launch Nginx  server
 
 #####  To Acces the Nginx Server  *`curl`* command can be used or through the CLI or a web browser by using the public IP address of the server. Below Inage shows the server page via the web browser.
