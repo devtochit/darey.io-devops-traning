@@ -25,7 +25,7 @@ Upgrade ubuntu
 
 `sudo apt upgrade`
 
-![Ubuntu upgraded](project_4_images/1.PNG)
+![Ubuntu upgraded](./project_4_images/1.PNG)
 
 Add certificates:
 
