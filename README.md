@@ -17,3 +17,23 @@ The following steps were taken to implement MEAN stack;
   
 - Install express and set up routes to the server
   
+  ## Authors
+
+👤 **Uzoma Jesse Tochukuw**
+
+- GitHub: [@Hedevedup](https://github.com/githubhandle)
+- Twitter: [@devtochi](https://twitter.com/twitterhandle)
+- LinkedIn: [jesseuzoma](https://linkedin.com/in/linkedinhandle)
+
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc  
+**`many thanks to Darey.io for this dev ops traning`**
