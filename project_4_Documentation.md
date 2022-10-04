@@ -166,4 +166,24 @@ Start the server
 The server is now up and running
 
 Connect it via port 3300
+## Authors
+
+👤 **Uzoma Jesse Tochukuw**
+
+- GitHub: [@Hedevedup](https://github.com/githubhandle)
+- Twitter: [@devtochi](https://twitter.com/twitterhandle)
+- LinkedIn: [jesseuzoma](https://linkedin.com/in/linkedinhandle)
+
+
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc  
+**`many thanks to Darey.io for this dev ops traning`**
 
