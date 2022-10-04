@@ -25,7 +25,7 @@ Upgrade ubuntu
 
 `sudo apt upgrade`
 
-![Ubuntu upgraded](./project_4_images/1.PNG)
+![Ubuntu upgraded](./project_4_images/1.png)
 
 Add certificates:
 
@@ -45,7 +45,7 @@ Step 2: Install MongoDB
 
 `echo "deb [ arch=amd64 ] https://repo.mongodb.org/apt/ubuntu trusty/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list`
 
-![keyserver](project_4_images/1.PNG)
+![keyserver](./project_4_images/1.png)
 
 `sudo apt install -y mongodb`
 
@@ -57,7 +57,7 @@ Verify that the service is up and running:
 
 `sudo systemctl status mongodb`
 
-![Mongo service](project_4_images/2.PNG)
+![Mongo service](./project_4_images/2.png)
 
 Install npm – Node package manager:
 
@@ -85,7 +85,7 @@ Add a file to it named server.js
 
 `vi server.js`
 
-![Open file](project_4_images/3.PNG)
+![Open file](./project_4_images/3.png)
 
 Edit the file
 
@@ -107,7 +107,7 @@ Create a "routes.js" file in apps folder
 
 `vi routes.js`
 
-![edit routes.js](project_4_images/Edit-routesjs.PNG)
+![edit routes.js](./project_4_images/Edit-routesjs.png)
 
 Create a folder named models in the "apps" folder
 
@@ -123,7 +123,7 @@ Create a file named book.js
 
 Input the script
 
-![Edit file](project_4_images/edit-booksjs.PNG)
+![Edit file](./project_4_images/edit-booksjs.png)
 
 Step 4 – Access the routes with AngularJS
 
@@ -151,7 +151,7 @@ Create a file named index.html in public folder
 
 
 
-![Edit file](project_4_images/edit-index-html.PNG)
+![Edit file](./project_4_images/edit-index-html.png)
 
 Change the directory back up to Books
 
@@ -161,7 +161,7 @@ Start the server
 
 `node server.js`
 
-![server running](project_4_images/node.PNG)
+![server running](./project_4_images/node.png)
 
 The server is now up and running
 
