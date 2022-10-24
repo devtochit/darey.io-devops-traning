@@ -1,15 +1,39 @@
-# Project_8_Load-Balancer-Solution-With-Apache
+![](https://img.shields.io/badge/darey.io-orange)
+
+# Continuous Integration Pipeline For Tooling Website
 ___
-#### In this Project,  [The DevOps Tooling Website Solution](https://github.com/OlusegunMichael/Project_7_DevOps-Tooling-Website-Solution.git) implemented in Project 7 will be Enhanced on by adding a Load Balancer.  A Load Balancer (LB) distributes clients’ requests among underlying Web Servers and makes sure that the load is distributed in an optimal way and allow users to access our website using a single URL.
+#
+
+### Prerequisites
+- Source Code: <a href="https://github.com/manny-uncharted/tooling.git">GitHub</a>
+- Infrastructure: AWS.
+- Webserver Linux: Red Hat Enterprise Linux 8.
+- Database Server: Ubuntu 20.04 + MySQL.
+- Storage Server: Red Hat Enterprise Linux 8 + NFS Server.
+- Load Balancer: Ubuntu 20.04.
+- Programming Language: PHP.
+
+To configure the above steps refer to the previous tutorial <a href="https://github.com/manny-uncharted/configuring-apache-as-a-load-balancer.git">Here</a>
+
+<b>Task:</b> Enhance the architecture in the previous project by adding a Jenkins server, and configure a job to automatically deploy source code changes from Git to the NFS server.
+
+## Authors
+
+👤 **Uzoma Jesse Tochukuw**
+
+- GitHub: [@Hedevedup](https://github.com/githubhandle)
+- Twitter: [@devtochi](https://twitter.com/twitterhandle)
+- LinkedIn: [jesseuzoma](https://linkedin.com/in/linkedinhandle)
 
 
-*Implementation will be done using the following components:*
-* [x] Prerequisite Project: [**Project 7**](https://github.com/OlusegunMichael/Project_7_DevOps-Tooling-Website-Solution.git) - The DevOps Tooling Website Solution
-* [x] Infrastructure: AWS(EC2)
-* [x] Ubuntu 20.04
-* [x] Apache: Load Balancer
 
-### *Prerequisite Archtecture*
-![3tier](./Project_8_Images/old%20arc.PNG)
-### *Propsed Archetecture*
-![3tier](./Project_8_Images/3tier.PNG)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc  
+**`many thanks to Darey.io for this dev ops traning`**
