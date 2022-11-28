@@ -1,2 +1,3 @@
-# ANSIBLE-DYNAMIC-ASSIGNMENTS
-Working with ansible dynamic assignments with community roles
+# project-14
+EXPERIENCE CONTINUOUS INTEGRATION WITH JENKINS | ANSIBLE | ARTIFACTORY | SONARQUBE | PHP
+
