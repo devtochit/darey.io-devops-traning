@@ -1,32 +1,11 @@
-![](https://img.shields.io/badge/darey.io-orange)
+# INSTALL-AND-CONFIGURE-ANSIBLE-ON-EC2-INSTANCE
 
-# **Project_2_LEMP_Stack_Implementation**
-In this Project I will be implementing another one of the Web Stack Technologies, The LEMP Web Stack. Detailed below are the steps followed in deploying.
+On the diagram below the Virtual Private Network (VPC) is divided into two subnets – Public subnet has public IP addresses and Private subnet is only reachable by private IP addresses.
 
-* [x] Installing the nginx web server
-* [x] Installing mysql
-* [x] Installing php
-* [x] Configuring nginx to use php processor
-* [x] Testing php with nginx
-* [x] Retrieving data from mysql database with php (continued)
+![](images/Capture.PNG)
 
-## Authors
-
-👤 **Uzoma Jesse Tochukuw**
-
-- GitHub: [@Hedevedup](https://github.com/githubhandle)
-- Twitter: [@devtochi](https://twitter.com/twitterhandle)
-- LinkedIn: [jesseuzoma](https://linkedin.com/in/linkedinhandle)
+**Task**
+- Install and configure Ansible client to act as a Jump Server/Bastion Host
+- Create a simple Ansible playbook to automate servers configuration
 
 
-
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc  
-**`many thanks to Darey.io for this dev ops traning`**
